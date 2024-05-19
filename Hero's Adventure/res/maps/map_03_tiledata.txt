@@ -1,0 +1,12 @@
+dirt.png
+false
+grass_0.png
+false
+grass_1.png
+false
+wall.png
+true
+water_0.png
+true
+water_1.png
+true
